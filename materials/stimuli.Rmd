@@ -1,0 +1,84 @@
+
+# Target stimuli (voiced vs voiceless fricative alveolar)
+1.Han deixat les platges obertes. 
+2.Han pintat les torres antigues.
+3.Han obert les portes enormes.
+4.Han cessat les guerres horribles.
+5.Han premiat les joves amables.
+6.Han après les llengües eslaves.
+7.Han renyat les nenes inquietes.
+8.Han passat les proves internes.
+9.Han munyit les vaques obeses.
+
+
+
+
+# Distractors
+## Lateral alveolar (light vs dark)
+
+
+## Fricative postalveolar [ʃ] vs Postalveolar affricate [tʃ]
+1.Han escrit una xifra romana.
+2.Han caçat una xupa petita.
+3.Han cuinat una xuia sucosa.
+4.Han menjat una xíndria gustosa. 
+5.Han cosit una xarxa vermella.
+6.Han montat una xefla sonada. 
+7.Han matat una xinxa comuna. 
+8.Han trobat un xaval jovenet.
+9.Han berenat un xuixo gironí. ("brenat")
+10.Han comprat un xampú olorós.
+11.Han buscat un xèrif simpàtic.
+12.Han provat un xiclet fastigós.
+13. Han begut un xampany importat. 
+14. Han sentit un xiulet estrident. 
+
+
+Han plantat una xufa ???
+Han podat un xiprer ??
+
+
+
+xef - 1
+xeix - 1
+xai - 1
+xoc - 1
+xala - 2
+xufa - 2
+xifra - 2
+xapa - 2
+xupa - 2
+xata - 2
+xató - 2
+xàfec - 2
+xampú - 2
+xarol - 2
+xarxa - 2
+xaval - 2
+xefla - 2
+xèrif - 2
+xicot - 2
+xarrup - 2
+xuia - 2
+xinxa - 2
+xalet - 2
+xiclet - 2
+xíndria - 2
+xampany - 2
+xiulet - 2
+xiprer - 2
+xinès - 2
+xatejar - 3
+xafogor - 3
+xenòfob - 3
+xeringa - 3
+xantatge - 3
+ximpanzé - 3
+xinxeta - 3
+xilòfon - 3
+xampinyó - 3
+xarlatà - 3
+xocolata - 4
+xerinola - 4
+xemeneia - 4
+xarcuteria - 5
