@@ -1,3 +1,74 @@
 
+# Notes for the introduction
+Catalan and Spanish are two languages that have coexisted for centuries. 
+<https://books.google.com/books?id=AhL9WsTaNzYC&printsec=frontcover&hl=es&vq=%22Estudis+de+fon%C3%A8tica+experimental+del+catal%C3%A0+oriental+central%22&source=gbs_citations_module_r&cad=1#v=onepage&q=%22Estudis%20de%20fon%C3%A8tica%20experimental%20del%20catal%C3%A0%20oriental%20central%22&f=false>
+
+1. Catalan coexists with Spanish 
+2. There is a bidirectional influence between these two languages
+3. Catalan influences Spanish and Spanish influences Catalan in all linguistic levels (possible citation: Davidson, 2014, 2015), although this influence is probably more notable in the production of sounds (citations?). 
+
+
+
 # Notes on alveolar fricatives
+Both Catalan and Peninsular Spanish sound inventories have an phoneme /s/, which can be classified as a voiceless alveolar fricative (Hualde & Colina, 2015). In addition, most of the Catalan varieties have a voiced alveolar phoneme in intervocalic contexts (Lloret, 2011; Recasens Vives, 1996, p. 279). In onset position, /s/ and /z/ contrast phonemically, which leads to minimal pairs like *cel* [sɛl] - *zel* [zɛl] and *fossa* [fósa] - *fosa* [fóza] (Carrera-Sabaté & Prieto, 2012-2019). Conversely, at the end of the word, this contrast is neutralized, being the voicing or devoicing of the alveolar fricative dependent on the following sound (Institut d’Estudis Catalans, 2022). For example, if it is followed by a vowel, the alveolar fricative is voiced: *torres* [tórəs] and *torres antigues* [torəzəntiɣəs]. 
+
+Interestingly, Medieval Spanish, similarly to Modern Catalan, distinguished between /s/ and /z/ in intervocalic position within a word, although these sounds merged through a devoicing process (Hualde & Colina, 2015). Nevertheless, in those modern varieties where the /s/ in coda position is produced, such as in Peninsular Spanish, this voiceless phoneme might assimilate to the following sound, especially if it is a voiced consonant (*mismo*, [mízmo]), rather than a vowel (*las alas*, [lasálas]) (Hualde & Colina, 2015; Hualde et al., 2020). Hence, Spanish inventory does not have the phoneme /z/, but [z] may occur as an allophone of /s/, due to a voice assimilation process. It is important to mention, though, that it has been claimed that this voicing is generally not complete, but partial (Benet et al., 2012; Hualde & Colina, 2015; Hualde et al., 2020).
+
+There is some evidence of the influence of Spanish on the production of the Catalan alveolar fricative, in contexts where, according to prescriptivist rules (Institut d'Estudis Catalans, 2022), the [z] should be produced, but [s] is produced instead. This phenomenon has mainly been attested in those areas where there has been an extended contact between Catalan and Spanish, such asthe so-called "franja de Aragón" (borderland between Catalonia and Aragon), some areas of the Valencian Community, and Barcelona and other urban areas (Benet et al., 2012; Davidson, 2020; Recasens Vives, 1996, p. 268). The opposite pattern has also been observed - that is, the voicing of the alveolar fricative in the Spanish spoken in Barcelona and Valencia. Interestingly, although in both Barcelona and Valencia Catalan and Spanish coexist and influence each other, it seems that Catalan has a greater influence on Spanish in Barcelona, but  Spanish has a greater influence on Catalan in Valencia (Davidson, 2020). 
+
+In summary, both Catalan and Spanish have a voiceless alveolar fricative in their inventories. Catalan also has a voiced variant, which is produced when this sound is followed by a voiced consonant or a vowel. Spanish might produced this sound only when it is followed by a voiced consonant, although /s/ might be "partially voiced" (Hualde & Colina, 2015). Thus, these phonemes, although they have the same allophones, their contextual distribution is different (Llisterri, 2023). Moreover, some studies have shown that there is a bidirectional influence between both languages in the production of the voiced vs the voiceless alveolar fricative, and that such influence might be different based on the context. These divergent patterns might be explained by the different sociopolitic and linguistic realities of each city, and  might have an effect on speakers' attitudes towards the devoicing of the alveolar fricative /z/ in Catalan. 
+
+
+4. Both Spanish and Catalan sound inventories have an apical-alveolar voiceless /s/, "which is articulated with a gesture of the tongue-tip toward the alveolar ridge" (Davidson, 2014)
+5. Most of the Catalan varieties have "an additional apical-alveolar phoneme, voiced /z/" 
+6. Linguistic constraints of /z/ -> ? 
+7. Minimal pairs such as *casa* (/z/) and *caça* (/s/) -> Este mismo ejemplo sale en Davidson (2014). ¿Buscar otro?
+8. /z/ - /s/ contrast is neutralized at the end of the word. The production of the voiced or voiceless apical-alveolar depends on the following sound, in the following word. For example, when it is followed by a vowel, the alveolar fricative in coda position (does it make sense to say coda position here?) is voiced: *torres* ([s]) and *torres antigues* ([z])
+9. Intervocalic [z] is a common and systematic feature of Catalan, but it has not been attested as a systematic feature in monolingual varieties of Spanish (Davidson, 2014, 2015) -> Hence, un problemaaaaa :) 
+10. Davidson (2014, p. 6): "We may expect that CCS voicing be more strongly disfavored word-medially because this position is a site of phonemic voicing contrast in Catalan, whereas the word-final position, being a site of purely phonetic voicing for both languages (albeit systematic in Catalan), may constitute a better candidate for crosslinguistic phonetic transfer from Catalan to CCS."
+
+
+
+
+
+Cited articles:
+Benet, A.; Cortés, S., & Lleó, C. (2012). Devoicing of sibilants as a segmental cue to the influence of Spanish onto current Catalan phonology. *Hamburg Studies on Multilingualism*. (book chapter)
+
+Citació: Carrera-Sabaté, Josefina  & Prieto, Pilar (coords.) (2012-2019)  
+Guies de Pronunciació del català. Pàgina web: <http://www.ub.edu/guiesdepronunciacio>.
+ 
+Davidson, J. (2020). 
+
+Hualde & Colina. (2015). Los sonidos del español
+
+Institut d’Estudis Catalans (2022). Gramàtica bàsica i d’ús de la llengua catalana. <https://gbu.iec.cat/inici>
+
+Llisterri, J. (2023). La fonética contrastiva. <https://joaquimllisterri.cat/applied_linguistics/L2_phonetics/Fon_Cont.html>
+
+Lloret, MR. (2011). La fonologia del català. Santillana. 
+
+Recasens Vives, D. (1996). *Fonètica descriptiva del català: Assaig de caracterització de la pronúncia del vocalisme i el consonantisme del català al segle XX*. Institut d'Estudis Catalans. (book) <https://books.google.com/books?id=2UCDqrfRfVcC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false>
+
+
+
+
+
+
+
+Other useful books/articles:
+Prieto 2004, 204-205 -> Prieto, Pilar. 2004. Fonètica i fonologia: Els sons del català [Phonetics and Phonology: The Sounds of Catalan]. Barcelona: Editorial UOC.
+
+Quilis 1981, 234-235 -> Quilis, Antonio. 1981. Fonética acústica de la lengua española [Acoustic Phonetics of the Spanish Language]. Madrid: Gredos.
+
+Recasens 1991, 267-268 -> Recasens, Daniel. 1986. Estudis de fonètica experimental del català oriental central [Experimental Phonetic Studies on East-Central Catalan]. Barcelona: Publicacions de L’Abadia de Montserrat. ---------. 1991. Fonètica descriptiva del català [Descriptive Phonetics of Catalan]. Barcelona: Institut d’Estudis Catalans. ---------. 1993. Fonètica i fonologia [Phonetics and Phonology]. Barcelona: Enciclopèdia Catalana.
+
+Martínez Celdrán & Fernández Planas 2007 -> Martínez Celdrán, Eugenio, and Ana María Fernández Planas. 2007. Manual de fonética española: Articulaciones y sonidos del español [Manual of Spanish Phonetics: Articulations and Sounds of Spanish]. Barcelona: Ariel.
+
+Julià i Muné 2008, 66-67 -> Julià i Muné, Joan. 2008. “Els sons del català [The Sounds of Catalan].” In Gramàtica del Català Contemporani, Volum 1: Introducció, Fonètica i Fonologia, Morfologia, ed. by Joan Solà, Maria-Rosa Lloret, Joan Mascaró, and Manuel Pérez Saldanya, 37-87. Barcelona: Editorial Empúries.
+
+Arnal’s (2011, p. 15) -> Arnal, A. (2011). Linguistic Changes in the Catalan Spoken in Catalonia under New Contact Conditions. Journal of Language Contact, 4, 5-25
+
+Woolard’s 2007 ->
+
+Lleó 2006 -> Lleó, C. 2006. Fenòmens evolutius i d’ús oral del català des de la finestra psicolingüística de l’adquisició bilingüe. In Actes del 13è Col·loqui internacional de llengua i literatura catalanes (AILLC), eds. S. Martí, M. Cabré, F. Feliu, N. Iglesias & D. Prats, 361–385. Barcelona: Publicacions de l’Abadia de Montserrat.
 

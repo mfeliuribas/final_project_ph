@@ -1,0 +1,100 @@
+
+# Target stimuli (voiced vs voiceless fricative alveolar)
+1.Han deixat les platges obertes. 
+2.Han pintat les torres antigues.
+3.Han obert les portes enormes.
+4.Han cessat les guerres horribles.
+5.Han premiat les joves amables.
+6.Han après les llengües eslaves.
+7.Han renyat les nenes inquietes.
+8.Han passat les proves internes.
+9.Han munyit les vaques obeses.
+10.Han tancat les vies estretes.
+11.Han trobat les boles ocultes.
+12.Han venut les obres angleses.
+13.Han atès les dones addictes.
+14.Han curat les cabres adultes.
+
+
+# Distractors
+## Lateral alveolar (light vs dark)
+1.Han vist un mussol cansat.
+2.Han comprat un bunyol calent.
+3.Han passat un Nadal contents.
+4.Han cobrat un jornal complet.
+5.Han posat un fanal grisenc.
+6.Han pujat un penyal gallec.
+7.Han usat un cossiol convex.
+8.Han tingut un final complex.
+9.Han rebut un condol cristià.
+10.Han sentit un grinyol caní.
+11.Han trobat un caragol confús.
+12.Han teixit un llençol gruixut.
+13.Han fundat una coral casual. 
+14.Han obert un local costenc. 
+
+## Fricative postalveolar [ʃ] vs Postalveolar affricate [tʃ]
+1.Han escrit una xifra romana.
+2.Han caçat una xupa petita.
+3.Han cuinat una xuia sucosa.
+4.Han menjat una xíndria gustosa. 
+5.Han cosit una xarxa vermella.
+6.Han montat una xefla sonada. 
+7.Han matat una xinxa comuna. 
+8.Han trobat un xaval jovenet.
+9.Han berenat un xuixo gironí. ("brenat")
+10.Han comprat un xampú olorós.
+11.Han buscat un xèrif simpàtic.
+12.Han provat un xiclet fastigós.
+13.Han begut un xampany importat. 
+14.Han sentit un xiulet estrident. 
+
+
+Han plantat una xufa ???
+Han podat un xiprer ??
+
+
+
+xef - 1
+xeix - 1
+xai - 1
+xoc - 1
+xala - 2
+xufa - 2
+xifra - 2
+xapa - 2
+xupa - 2
+xata - 2
+xató - 2
+xàfec - 2
+xampú - 2
+xarol - 2
+xarxa - 2
+xaval - 2
+xefla - 2
+xèrif - 2
+xicot - 2
+xarrup - 2
+xuia - 2
+xinxa - 2
+xalet - 2
+xiclet - 2
+xíndria - 2
+xampany - 2
+xiulet - 2
+xiprer - 2
+xinès - 2
+xatejar - 3
+xafogor - 3
+xenòfob - 3
+xeringa - 3
+xantatge - 3
+ximpanzé - 3
+xinxeta - 3
+xilòfon - 3
+xampinyó - 3
+xarlatà - 3
+xocolata - 4
+xerinola - 4
+xemeneia - 4
+xarcuteria - 5
