@@ -1,0 +1,110 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.421333333333333 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sentence" 
+        xmin = 0 
+        xmax = 14.421333333333333 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1767801619626368 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1767801619626368 
+            xmax = 4.509784135989625 
+            text = "Han deixat les platges obertes" 
+        intervals [3]:
+            xmin = 4.509784135989625 
+            xmax = 5.761256892520831 
+            text = "" 
+        intervals [4]:
+            xmin = 5.761256892520831 
+            xmax = 8.85162839334279 
+            text = "Han pintat les torres antigues" 
+        intervals [5]:
+            xmin = 8.85162839334279 
+            xmax = 10.039250499030565 
+            text = "" 
+        intervals [6]:
+            xmin = 10.039250499030565 
+            xmax = 12.963610307659609 
+            text = "Han obert les portes enormes" 
+        intervals [7]:
+            xmin = 12.963610307659609 
+            xmax = 14.421333333333333 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 14.421333333333333 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.984765016787876 
+            text = "" 
+        intervals [2]:
+            xmin = 2.984765016787876 
+            xmax = 4.510104815572363 
+            text = "platges obertes" 
+        intervals [3]:
+            xmin = 4.510104815572363 
+            xmax = 7.552926034752118 
+            text = "" 
+        intervals [4]:
+            xmin = 7.552926034752118 
+            xmax = 8.851637961006718 
+            text = "torres antigues" 
+        intervals [5]:
+            xmin = 8.851637961006718 
+            xmax = 11.64543567071618 
+            text = "" 
+        intervals [6]:
+            xmin = 11.64543567071618 
+            xmax = 12.963610307659609 
+            text = "portes enormes" 
+        intervals [7]:
+            xmin = 12.963610307659609 
+            xmax = 14.421333333333333 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "sound" 
+        xmin = 0 
+        xmax = 14.421333333333333 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.4633400526055476 
+            text = "" 
+        intervals [2]:
+            xmin = 3.4633400526055476 
+            xmax = 3.6452485893791935 
+            text = "s" 
+        intervals [3]:
+            xmin = 3.6452485893791935 
+            xmax = 7.911737772188026 
+            text = "" 
+        intervals [4]:
+            xmin = 7.911737772188026 
+            xmax = 8.063883308237628 
+            text = "s" 
+        intervals [5]:
+            xmin = 8.063883308237628 
+            xmax = 12.044643870712115 
+            text = "" 
+        intervals [6]:
+            xmin = 12.044643870712115 
+            xmax = 12.187620602560893 
+            text = "s" 
+        intervals [7]:
+            xmin = 12.187620602560893 
+            xmax = 14.421333333333333 
+            text = "" 

@@ -9,13 +9,29 @@
 7.Han renyat les nenes inquietes.
 8.Han passat les proves internes.
 9.Han munyit les vaques obeses.
-
-
+10.Han tancat les vies estretes.
+11.Han trobat les boles ocultes.
+12.Han venut les obres angleses.
+13.Han atès les dones addictes.
+14.Han curat les cabres adultes.
 
 
 # Distractors
 ## Lateral alveolar (light vs dark)
-
+1.Han vist un mussol cansat.
+2.Han comprat un bunyol calent.
+3.Han passat un Nadal contents.
+4.Han cobrat un jornal complet.
+5.Han posat un fanal grisenc.
+6.Han pujat un penyal gallec.
+7.Han usat un cossiol convex.
+8.Han tingut un final complex.
+9.Han rebut un condol cristià.
+10.Han sentit un grinyol caní.
+11.Han trobat un caragol confús.
+12.Han teixit un llençol gruixut.
+13.Han fundat una coral casual. 
+14.Han obert un local costenc. 
 
 ## Fricative postalveolar [ʃ] vs Postalveolar affricate [tʃ]
 1.Han escrit una xifra romana.
@@ -30,8 +46,8 @@
 10.Han comprat un xampú olorós.
 11.Han buscat un xèrif simpàtic.
 12.Han provat un xiclet fastigós.
-13. Han begut un xampany importat. 
-14. Han sentit un xiulet estrident. 
+13.Han begut un xampany importat. 
+14.Han sentit un xiulet estrident. 
 
 
 Han plantat una xufa ???
