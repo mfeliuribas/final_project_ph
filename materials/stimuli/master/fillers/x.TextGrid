@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 55.168 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 55.168 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1976785522750921 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1976785522750921 
+            xmax = 4.003479598476441 
+            text = "xifra_x" 
+        intervals [3]:
+            xmin = 4.003479598476441 
+            xmax = 5.0253454115991545 
+            text = "" 
+        intervals [4]:
+            xmin = 5.0253454115991545 
+            xmax = 7.969704534156126 
+            text = "xupa_x" 
+        intervals [5]:
+            xmin = 7.969704534156126 
+            xmax = 8.956930828189932 
+            text = "" 
+        intervals [6]:
+            xmin = 8.956930828189932 
+            xmax = 11.970568988924715 
+            text = "xuia_x" 
+        intervals [7]:
+            xmin = 11.970568988924715 
+            xmax = 13.13099287840305 
+            text = "" 
+        intervals [8]:
+            xmin = 13.13099287840305 
+            xmax = 16.127311279593382 
+            text = "xindria_x" 
+        intervals [9]:
+            xmin = 16.127311279593382 
+            xmax = 16.956080375515004 
+            text = "" 
+        intervals [10]:
+            xmin = 16.956080375515004 
+            xmax = 19.969718536249786 
+            text = "xarxa_x" 
+        intervals [11]:
+            xmin = 19.969718536249786 
+            xmax = 20.8583407705698 
+            text = "" 
+        intervals [12]:
+            xmin = 20.8583407705698 
+            xmax = 23.871978931304582 
+            text = "xefla_x" 
+        intervals [13]:
+            xmin = 23.871978931304582 
+            xmax = 24.726446364352373 
+            text = "" 
+        intervals [14]:
+            xmin = 24.726446364352373 
+            xmax = 27.618846208275986 
+            text = "xinxa_x" 
+        intervals [15]:
+            xmin = 27.618846208275986 
+            xmax = 28.640712021398702 
+            text = "" 
+        intervals [16]:
+            xmin = 28.640712021398702 
+            xmax = 31.169396914888807 
+            text = "xaval_x" 
+        intervals [17]:
+            xmin = 31.169396914888807 
+            xmax = 32.0873441707448 
+            text = "" 
+        intervals [18]:
+            xmin = 32.0873441707448 
+            xmax = 34.52943026651264 
+            text = "xuxu_x" 
+        intervals [19]:
+            xmin = 34.52943026651264 
+            xmax = 35.63064150853798 
+            text = "" 
+        intervals [20]:
+            xmin = 35.63064150853798 
+            xmax = 38.332523997472606 
+            text = "xampu_x" 
+        intervals [21]:
+            xmin = 38.332523997472606 
+            xmax = 39.35438981059532 
+            text = "" 
+        intervals [22]:
+            xmin = 39.35438981059532 
+            xmax = 42.090911818618856 
+            text = "xerif_x" 
+        intervals [23]:
+            xmin = 42.090911818618856 
+            xmax = 42.74906268130806 
+            text = "" 
+        intervals [24]:
+            xmin = 42.74906268130806 
+            xmax = 45.641462525231674 
+            text = "xiclet_x" 
+        intervals [25]:
+            xmin = 45.641462525231674 
+            xmax = 46.43622604588795 
+            text = "" 
+        intervals [26]:
+            xmin = 46.43622604588795 
+            xmax = 49.2420270920893 
+            text = "xampany_x" 
+        intervals [27]:
+            xmin = 49.2420270920893 
+            xmax = 49.8655384356896 
+            text = "" 
+        intervals [28]:
+            xmin = 49.8655384356896 
+            xmax = 52.63669996280204 
+            text = "xiulet_x" 
+        intervals [29]:
+            xmin = 52.63669996280204 
+            xmax = 55.168 
+            text = "" 
