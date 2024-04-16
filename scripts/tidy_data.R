@@ -55,28 +55,51 @@ data_tidy <- data_raw %>%
     "z", "s")) %>%
   write_csv(here("data", "data_final.csv"))
 
+
+# Create subsets
 data_tidy <- read.csv(here("data", "data_final.csv"))
 
+subset_estudis <- data_tidy %>% 
+  filter(endsWith(question, "_1")) %>%
+  write_csv(here("data", "subsets", "subset_estudis.csv"))
 
-data_demo <- data_tidy %>%
-  pivot_wider(
-    names_from = "question",
-    values_from = "value") %>%
-  select(age:level_studies) %>%
-  distinct()
+subset_classe <- data_tidy %>% 
+  filter(endsWith(question, "_2")) %>%
+  write_csv(here("data", "subsets", "subset_classe.csv"))
 
+subset_intelligent <- data_tidy %>% 
+  filter(endsWith(question, "_3")) %>%
+  write_csv(here("data", "subsets", "subset_intelligent.csv"))
 
-data_demo %>%
-  group_by(province) %>%
-  summarize(
-    mean_age = mean(age),
-    median_age = median(age),
-    min_age = min(age),
-    max_age = max(age))
+subset_simpatic <- data_tidy %>% 
+  filter(endsWith(question, "_4")) %>%
+  write_csv(here("data", "subsets", "subset_simpatic.csv"))
 
-data_demo %>%
-  ggplot() +
-  aes(x = mother_tongue) +
-  facet_wrap(.~ province, scales = "free_y") +
-  geom_bar()
+subset_amable <- data_tidy %>% 
+  filter(endsWith(question, "_5")) %>%
+  write_csv(here("data", "subsets", "subset_amable.csv"))
+
+subset_fiar <- data_tidy %>% 
+  filter(endsWith(question, "_6")) %>%
+  write_csv(here("data", "subsets", "subset_fiar.csv"))
+
+subset_ciutat <- data_tidy %>% 
+  filter(endsWith(question, "_7")) %>%
+  write_csv(here("data", "subsets", "subset_ciutat.csv"))
+
+subset_pbc <- data_tidy %>% 
+  filter(endsWith(question, "_8")) %>%
+  write_csv(here("data", "subsets", "subset_pbc.csv"))
+
+subset_oc <- data_tidy %>% 
+  filter(endsWith(question, "_9")) %>%
+  write_csv(here("data", "subsets", "subset_oc.csv"))
+
+subset_accent <- data_tidy %>% 
+  filter(endsWith(question, "_10")) %>%
+  write_csv(here("data", "subsets", "subset_accent.csv"))
+
+subset_agradable <- data_tidy %>% 
+  filter(endsWith(question, "_11")) %>%
+  write_csv(here("data", "subsets", "subset_agradable.csv"))
 
