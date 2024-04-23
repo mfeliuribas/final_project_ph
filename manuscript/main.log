@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.20)  25 MAR 2024 12:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.31)  23 APR 2024 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -472,12 +472,12 @@ LaTeX Font Info:    Trying to load font information for T3+ptm on input line 180
 (/Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/tex/latex/tipa/t3ptm.fd
 File: t3ptm.fd 2001/12/31 TIPA font definitions
 )
-Underfull \hbox (badness 2253) in paragraph at lines 189--202
+Underfull \hbox (badness 2253) in paragraph at lines 190--203
 \T1/ptm/m/n/10.95 ern Cata-lan, dis-tin-guished be-tween /s/ and /z/
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 219--233
+Underfull \hbox (badness 1655) in paragraph at lines 220--234
 []\T1/ptm/m/n/10.95 In sum-mary, both Cata-lan and Span-ish have
  []
 
@@ -495,32 +495,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [2]
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 313.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 314.
 (/Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 313.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 314.
 (/Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 313.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 314.
 (/Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 313.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 314.
 (/Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 313.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 314.
 (/Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 313.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 313.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 314.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 313.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 314.
 Package epstopdf Info: Source file: <./includes/figures/ipa.eps>
 (epstopdf)                    date: 2024-03-19 22:04:11
 (epstopdf)                    size: 297195 bytes
@@ -528,18 +528,18 @@ Package epstopdf Info: Source file: <./includes/figures/ipa.eps>
 (epstopdf)                    date: 2024-03-19 22:04:11
 (epstopdf)                    size: 83367 bytes
 (epstopdf)             Command: <repstopdf --outfile=./includes/figures/ipa-eps-converted-to.pdf ./includes/figures/ipa.eps>
-(epstopdf)             \includegraphics on input line 328.
+(epstopdf)             \includegraphics on input line 329.
 Package epstopdf Info: Output file is already uptodate.
-<./includes/figures/ipa-eps-converted-to.pdf, id=24, 526.96875pt x 414.54875pt>
+<./includes/figures/ipa-eps-converted-to.pdf, id=26, 526.96875pt x 414.54875pt>
 File: ./includes/figures/ipa-eps-converted-to.pdf Graphic file (type pdf)
 <use ./includes/figures/ipa-eps-converted-to.pdf>
-Package pdftex.def Info: ./includes/figures/ipa-eps-converted-to.pdf  used on input line 328.
+Package pdftex.def Info: ./includes/figures/ipa-eps-converted-to.pdf  used on input line 329.
 (pdftex.def)             Requested size: 170.71602pt x 134.2966pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 397--401
+Underfull \hbox (badness 1077) in paragraph at lines 398--402
 \T1/ptm/m/n/10.95 Please use just the ref-er-ence num-ber in square
  []
 
@@ -551,25 +551,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [3 <./includes/figures/ipa-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 493.
+
+LaTeX Warning: Citation `Fant:1960' on page 4 undefined on input line 482.
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 494.
 (/Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<main_files/figure-latex/ex_plot-1.pdf, id=65, 198.7425pt x 108.405pt>
+<main_files/figure-latex/ex_plot-1.pdf, id=66, 198.7425pt x 108.405pt>
 File: main_files/figure-latex/ex_plot-1.pdf Graphic file (type pdf)
 <use main_files/figure-latex/ex_plot-1.pdf>
-Package pdftex.def Info: main_files/figure-latex/ex_plot-1.pdf  used on input line 525.
+Package pdftex.def Info: main_files/figure-latex/ex_plot-1.pdf  used on input line 526.
 (pdftex.def)             Requested size: 198.74806pt x 108.40802pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (./main.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 
-Underfull \hbox (badness 2326) in paragraph at lines 33--34
+Underfull \hbox (badness 2326) in paragraph at lines 36--37
 \T1/ptm/m/n/10 ships,'' in \T1/ptm/m/it/10 The Hand-book of Pho-netic Sci-ence\T1/ptm/m/n/10 ,
  []
 
@@ -585,17 +588,20 @@ Underfull \hbox (badness 2035) in paragraph at lines 48--49
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
  13998 strings out of 476064
- 222348 string characters out of 5790786
+ 222366 string characters out of 5790786
  1946493 words of memory out of 5000000
  35830 multiletter control sequences out of 15000+600000
  616246 words of font info for 115 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 77i,10n,81p,902b,608s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 77i,10n,81p,902b,610s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/urw/times/utmri8a.pfb></Users/meritxellfeliuribas/Library/TinyTeX/texmf-dist/fonts/type1/public/tipa/xipa10.pfb>
-Output written on main.pdf (5 pages, 213979 bytes).
+Output written on main.pdf (5 pages, 216256 bytes).
 PDF statistics:
  218 PDF objects out of 1000 (max. 8388607)
  189 compressed objects within 2 object streams
