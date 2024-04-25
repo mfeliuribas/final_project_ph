@@ -29,9 +29,11 @@ subset_pbc %>%
   scale_x_discrete(labels = c("Spanish", "Catalan", "Both")) +
   theme(legend.key.size = unit(1, "lines"),
     legend.key.width = unit(1.5, "lines"),
-    legend.spacing.x = unit(0.5, "lines")) +
-  labs(title = "Statement: Parla bé català") +
+    legend.spacing.x = unit(0.5, "lines"),
+    legend.position = "bottom") +
+  #labs(title = "Statement: Parla bé català") +
   guides(fill = guide_legend(override.aes = list(size = 0.5)))
+ggsave(here("manuscript", "includes", "figures", "pbc.png"))
 
 # Sembla que la gent no distingueix entre [s] i [z] o, si ho fa, els hi és igual
 # En general, els cat_cast valoren més positivament a la persona que escolten,
@@ -56,9 +58,11 @@ subset_oc %>%
   scale_x_discrete(labels = c("Spanish", "Catalan", "Both")) +
   theme(legend.key.size = unit(1, "lines"),
         legend.key.width = unit(1.5, "lines"),
-        legend.spacing.x = unit(0.5, "lines"))+
-  labs(title = "Statement: És d'origen català") +
+        legend.spacing.x = unit(0.5, "lines"),
+        legend.position = "bottom")+
+  #labs(title = "Statement: És d'origen català") +
   guides(fill = guide_legend(override.aes = list(size = 0.5)))
+ggsave(here("manuscript", "includes", "figures", "oc.png"))
 
 # És pràcticament igual a l'anterior
 
@@ -104,9 +108,11 @@ subset_simpatic %>%
   scale_fill_viridis_d(end = 0.9, labels = c("Barcelona", "Girona")) +
   theme(legend.key.size = unit(1, "lines"),
         legend.key.width = unit(1.5, "lines"),
-        legend.spacing.x = unit(0.5, "lines"))+
-  labs(title = "Statement: És simpàtic") +
+        legend.spacing.x = unit(0.5, "lines"),
+        legend.position = "bottom")+
+  #labs(title = "Statement: És simpàtic") +
   guides(fill = guide_legend(override.aes = list(size = 0.5)))
+ggsave(here("manuscript", "includes", "figures", "simpatic.png"))
 
 
 
@@ -136,9 +142,11 @@ subset_fiar %>%
   scale_fill_viridis_d(end = 0.9, labels = c("Barcelona", "Girona")) +
   theme(legend.key.size = unit(1, "lines"),
         legend.key.width = unit(1.5, "lines"),
-        legend.spacing.x = unit(0.5, "lines"))+
-  labs(title = "Statement: És de fiar") +
+        legend.spacing.x = unit(0.5, "lines"),
+        legend.position = "bottom")+
+  #labs(title = "Statement: És de fiar") +
   guides(fill = guide_legend(override.aes = list(size = 0.5)))
+ggsave(here("manuscript", "includes", "figures", "fiar.png"))
 
 # Sembla que amb la [z] les valoracions són una mica més bones, però no hi ha 
 # diferències significatives
