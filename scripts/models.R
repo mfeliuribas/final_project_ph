@@ -209,6 +209,7 @@ plot(mod_2_pbc)
 
 
 
+
 # Build models (és d'origen català, 9)
 mod_0_oc <- lm(value ~ 1, data = subset_oc)
 
